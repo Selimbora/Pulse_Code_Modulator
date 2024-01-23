@@ -1,1 +1,1 @@
-necessary explanations are in ther codes as comment parts
+necessary explanations are in the codes as comment parts
